@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**KevinZTW/KevinZTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+This is Kevin Zhang, a digital product lover experienced in various domain from digital solution sales to consumer banking PM, having keen interest in computer science and passionated about leverage software to enhance people's life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Projects :</br>
+
+Taggy - A platform for users to explore and manage software knowledge, with RSS subscription and web clipping function
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KevinZTW&repo=Taggy)](https://github.com/KevinZTW/Taggy.git)</br>
+
+
+
+
+
+
