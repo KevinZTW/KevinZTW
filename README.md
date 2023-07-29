@@ -10,9 +10,9 @@ Currently, I am actively looking for opportunities in backend development, where
 
 ### Cloud / Edge Computing  ☁️
 
-Currently, I am actively involved in research at Gatech EPL lab, where we are dedicated to implementing an efficient approach for the FaaS (Function as a Service) platform to manage application state to minimize latency and IO overhead, thereby enhancing the overall performance.
+Currently, I am actively involved in research at [Gatech EPL lab](https://epl.gatech.edu/), where we are dedicated to implementing an efficient approach for the FaaS (Function as a Service) platform to manage application state to minimize latency and IO overhead, thereby enhancing the overall performance.
 
-Throughout this process, I have been studying distributed databases such as Redis, CouchDB, as well as cloud infrastructure technologies like Kubernetes (K8S) and OpenFaaS. Currently I am working on to setup [pheromum](https://github.com/KevinZTW/pheromone) which is the implementation for the paper Following the Data, Not the Function Rethinking Function Orchestration in Serverless Computing on K8S and reproduce the research
+Throughout this process, I have been studying distributed databases such as Redis, CouchDB, as well as cloud infrastructure technologies like Kubernetes (K8S) and OpenFaaS. Currently I am working on to setup [pheromum](https://github.com/KevinZTW/pheromone)  which is the implementation for the paper Following the Data, Not the Function Rethinking Function Orchestration in Serverless Computing on [CloudLab](https://www.cloudlab.us/) K8S and reproduce the research
 
 References:
 - Faa$T A Transparent Auto-Scaling Cache for Serverless Applications
