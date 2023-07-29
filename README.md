@@ -14,9 +14,11 @@ Currently, I am actively involved in research at [Gatech EPL lab](https://epl.ga
 
 Throughout this process, I have been studying distributed databases such as Redis, CouchDB, as well as cloud infrastructure technologies like Kubernetes (K8S) and OpenFaaS. Currently I am working on to setup [pheromum](https://github.com/KevinZTW/pheromone)  which is the implementation for the paper Following the Data, Not the Function Rethinking Function Orchestration in Serverless Computing on [CloudLab](https://www.cloudlab.us/) K8S and reproduce the research
 
-References:
-- Faa$T A Transparent Auto-Scaling Cache for Serverless Applications
-- Following the Data, Not the Function Rethinking Function Orchestration in Serverless Computing
+<details>
+  <summary>Technical References</summary>
+  <li>Faa$T A Transparent Auto-Scaling Cache for Serverless Applications</li>
+  <li>Following the Data, Not the Function Rethinking Function Orchestration in Serverless Computing</li>
+</details>
 
 ### Distributed Backend Application 📐
 
@@ -26,11 +28,10 @@ In my previous workplace, we were gradually transitioning towards the microservi
 2. Exploring various techniques for data storage, telemetry, and information retrieval, including technologies like Kafka, Prometheus, Zipkin...etc.
 3. Strengthening my skills with Docker, Golang, gRPC, Java, SpringBoot, MongoDB, and other relevant tools.
 
-References:
-- Building Microservices, 2nd Edition, Sam Newman
-- Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, Brendan Burns
-- Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans
-- OpenTelemetry Demo
-
-
-
+<details>
+  <summary>Technical References</summary>
+  <li>Building Microservices, 2nd Edition, Sam Newman</li>
+  <li>Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, Brendan Burns</li>
+  <li>Domain-Driven Design: Tackling Complexity in the Heart of Software, Eric Evans</li>
+  <li>OpenTelemetry Demo</li>
+</details>
