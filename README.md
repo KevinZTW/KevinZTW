@@ -4,7 +4,6 @@ I'm Kevin, an enthusiastic individual with a strong passion for computer systems
 Currently, I am actively looking for opportunities in backend development, where I can contribute my skills to build scalable and reliable systems  
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-zhang-93526bab/)     
-[My Resume](https://pse.is/56znqj)
 
 ## Current Focus 🚀
 
